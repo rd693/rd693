@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rd693
 - 👀 I’m interested in Web Development, Mobile App development
 - 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on reactJs Projects
 - 📫 How to reach me:
 email-ramdas693@gmail.com
 
